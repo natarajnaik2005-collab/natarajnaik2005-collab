@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nataraj Naik</h1>
 <h3 align="center">Passionate Java Full Stack Developer | Quick Learner | Problem Solver</h3>
-<img align="right" alt="coding" width="400" src="<img width="800" height="600" alt="image" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+<img align="right" alt="coding" width="400" src="<img width="800" height="600" alt="image" src="<img width="800" height="600" alt="image" src="<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/bd9e5a55-fbe7-4936-9ce2-e3170db69aab"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natarajnaik2005-collab&label=Profile%20views&color=0e75b6&style=flat" alt="natarajnaik2005-collab" /> </p>
 
